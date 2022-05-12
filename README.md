@@ -1,2 +1,32 @@
-# stacklang
-The definition (and hopefully implementation) for an unamed stack based programming language.
+## keywords
+### stack manipulation:
+
+``` push ```:
+
+``` pop ```:
+
+``` swp ```:
+
+``` cmp ```: 
+
+``` top ```:
+
+### blocks:
+
+``` sub ```:
+
+``` loop ```:
+
+``` cond ```:
+
+``` begin ```:
+
+``` end ```:
+
+``` jmp ```:
+
+### I/O:
+
+``` put ```:
+
+``` take ```:
