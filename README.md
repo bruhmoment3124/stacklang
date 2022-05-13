@@ -58,3 +58,11 @@
 **takes input from a buffer and pushes it onto the top of the stack.**
 
 ## operators
+
+``` + - * / ^ % ```:
+
+**perform the operation on the top two values and replace the values with the result, unless top is used.**
+
+``` top ```:
+
+**pushes the result of an operation onto the stack.**
